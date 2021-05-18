@@ -14,7 +14,7 @@ the scope of this document.
 
 There is existing official documentation on what metrics each component exposes.
 
-* [Istio metrics](https://istio.io/latest/docs/reference/config/policy-and-telemetry/metrics/)
+* [Istio metrics](https://istio.io/latest/docs/reference/config/metrics/)
 * [Istio preconfigured grafana dashboards](https://istio.io/latest/docs/ops/integrations/grafana/)
   * These dashboards have helpful Prometheus queries and demonstrate what the
     Istio community finds valuable to monitor when running Istio.
